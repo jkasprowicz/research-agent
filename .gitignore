@@ -1,0 +1,8 @@
+cat >> .gitignore <<'EOF'
+projects/*/data/raw/
+projects/*/data/processed/
+*.xlsx
+*.csv
+*.sav
+*.parquet
+EOF
