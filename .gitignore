@@ -9,4 +9,4 @@ EOF
 
 echo ".DS_Store" >> .gitignore
 git add .gitignore
-git commit -m "Ignore macOS metadata files"
+git commit -m "Ignore macOS metadata files".DS_Store
