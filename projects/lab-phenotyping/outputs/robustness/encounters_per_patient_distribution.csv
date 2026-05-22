@@ -1,0 +1,6 @@
+encounters_per_patient_bin,patient_count,pct_of_patients
+1,60334,73.9125
+2,12635,15.4786
+3-5,7604,9.3153
+6-10,931,1.1405
+>10,125,0.1531

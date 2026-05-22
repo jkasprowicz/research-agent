@@ -1,0 +1,7 @@
+cluster,count,analysis_set,pct
+0.0,5837,all_encounters,22.0981
+1.0,5029,all_encounters,19.0391
+2.0,15548,all_encounters,58.8627
+0.0,3412,first_encounter_only,18.8706
+1.0,3121,first_encounter_only,17.2612
+2.0,11548,first_encounter_only,63.8681

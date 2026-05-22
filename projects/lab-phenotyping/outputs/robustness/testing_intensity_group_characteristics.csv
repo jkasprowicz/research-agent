@@ -1,0 +1,4 @@
+group,encounters,median_n_exames,median_idade,female_pct,adult_emergency_pct,pediatric_emergency_pct
+pre_filter_all,120036,3.0,49.5,12.1197,21.0095,0.4715
+post_filter_ge6,41084,9.0,49.5,35.4104,61.384,1.3777
+excluded_lt6,78952,2.0,,,0.0,0.0
