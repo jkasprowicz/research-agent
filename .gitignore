@@ -12,3 +12,7 @@ git add .gitignore
 git commit -m "Ignore macOS metadata files".DS_Store
 __pycache__/
 *.pyc
+.DS_Store
+~.docx
+__pycache__/
+*.pyc
