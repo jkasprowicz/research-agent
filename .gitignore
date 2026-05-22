@@ -1,11 +1,21 @@
-cat >> .gitignore <<'EOF'
+# Sensitive raw data
 projects/*/data/raw/
 projects/*/data/processed/
+
+# Large/sensitive formats
 *.xlsx
-*.csv
 *.sav
 *.parquet
-EOF
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Word temp files
+~$*.docx
 
 echo ".DS_Store" >> .gitignore
 git add .gitignore

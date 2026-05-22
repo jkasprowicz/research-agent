@@ -1,0 +1,81 @@
+dataset,variable,row_count,non_null_count,missing_count,missing_pct
+raw_base,Data de Entrada,9097700,9097700,0,0.0
+raw_base,Código da Unidade,9097700,9097700,0,0.0
+raw_base,Número do Atendimento,9097700,9097700,0,0.0
+raw_base,Código Controle,9097700,1428277,7669423,84.3007
+raw_base,Nome do Exame,9097700,9097700,0,0.0
+raw_base,Nome da Variável,9097700,9097037,663,0.0073
+raw_base,Valor do Resultado,9097700,9097700,0,0.0
+raw_base,Nome do Convênio,9097700,9097700,0,0.0
+raw_base,Data de Entrega,9097700,9097700,0,0.0
+raw_base,Origem,9097700,9097700,0,0.0
+raw_base,Nome do Paciente,9097700,9097700,0,0.0
+raw_base,Data de Nascimento,9097700,9097693,7,0.0001
+raw_base,Sexo,9097700,9097699,1,0.0
+raw_base,CPF do Paciente,9097700,8683152,414548,4.5566
+raw_base,RG,9097700,735683,8362017,91.9135
+raw_base,Telefone do Paciente,9097700,98009,8999691,98.9227
+raw_base,Celular do Paciente,9097700,2646432,6451268,70.911
+raw_base,Endereço do Paciente,9097700,2689936,6407764,70.4328
+raw_base,Nome do Médico Solicitante,9097700,9097693,7,0.0001
+raw_base,Nome do Conselho,9097700,9097693,7,0.0001
+raw_base,CRM,9097700,9097698,2,0.0
+raw_base,arquivo_origem,9097700,9097700,0,0.0
+clusters_with_care_setting,numero_do_atendimento,26414,26414,0,0.0
+clusters_with_care_setting,BILIRRUBINA,26414,12701,13713,51.9157
+clusters_with_care_setting,CPK,26414,12185,14229,53.8692
+clusters_with_care_setting,CREATININA,26414,23817,2597,9.8319
+clusters_with_care_setting,FOSFATASE_ALCALINA,26414,10496,15918,60.2635
+clusters_with_care_setting,GLICOSE,26414,765,25649,97.1038
+clusters_with_care_setting,LDH,26414,11399,15015,56.8449
+clusters_with_care_setting,LEUCO,26414,26183,231,0.8745
+clusters_with_care_setting,PCR,26414,21356,5058,19.1489
+clusters_with_care_setting,PLAQ,26414,26182,232,0.8783
+clusters_with_care_setting,POTASSIO,26414,10989,15425,58.3971
+clusters_with_care_setting,SODIO,26414,11095,15319,57.9958
+clusters_with_care_setting,TAP,26414,7571,18843,71.3372
+clusters_with_care_setting,TGO,26414,21218,5196,19.6714
+clusters_with_care_setting,TGP,26414,20079,6335,23.9835
+clusters_with_care_setting,UREIA,26414,21967,4447,16.8358
+clusters_with_care_setting,idade,26414,23019,3395,12.853
+clusters_with_care_setting,sexo,26414,26414,0,0.0
+clusters_with_care_setting,codigo_da_unidade,26414,26414,0,0.0
+clusters_with_care_setting,n_exames,26414,26414,0,0.0
+clusters_with_care_setting,LEUCO_original,26414,26183,231,0.8745
+clusters_with_care_setting,PLAQ_original,26414,26182,232,0.8783
+clusters_with_care_setting,cluster,26414,26414,0,0.0
+clusters_with_care_setting,care_setting,26414,26414,0,0.0
+dataset_expandido,data_de_entrada,1394229,1256045,138184,9.9111
+dataset_expandido,codigo_da_unidade,1394229,1394229,0,0.0
+dataset_expandido,numero_do_atendimento,1394229,1394229,0,0.0
+dataset_expandido,nome_do_exame,1394229,1394229,0,0.0
+dataset_expandido,nome_da_variavel,1394229,1394229,0,0.0
+dataset_expandido,valor_do_resultado,1394229,1394229,0,0.0
+dataset_expandido,valor_num,1394229,1394229,0,0.0
+dataset_expandido,sexo,1394229,1394229,0,0.0
+dataset_expandido,patient_id,1394229,1394229,0,0.0
+dataset_expandido,idade,1394229,1023882,370347,26.5629
+dataset_expandido,exame_padronizado,1394229,1394229,0,0.0
+dataset_expandido,arquivo_origem,1394229,1394229,0,0.0
+features_24h_peak_emergency,numero_do_atendimento,25785,25785,0,0.0
+features_24h_peak_emergency,BILIRRUBINA,25785,12534,13251,51.3903
+features_24h_peak_emergency,CPK,25785,12021,13764,53.3799
+features_24h_peak_emergency,CREATININA,25785,23230,2555,9.9089
+features_24h_peak_emergency,FOSFATASE_ALCALINA,25785,10353,15432,59.8487
+features_24h_peak_emergency,GLICOSE,25785,260,25525,98.9917
+features_24h_peak_emergency,LDH,25785,11303,14482,56.1644
+features_24h_peak_emergency,LEUCO,25785,25559,226,0.8765
+features_24h_peak_emergency,PCR,25785,21093,4692,18.1966
+features_24h_peak_emergency,PLAQ,25785,25558,227,0.8804
+features_24h_peak_emergency,POTASSIO,25785,10773,15012,58.2199
+features_24h_peak_emergency,SODIO,25785,10975,14810,57.4365
+features_24h_peak_emergency,TAP,25785,7460,18325,71.0685
+features_24h_peak_emergency,TGO,25785,20669,5116,19.841
+features_24h_peak_emergency,TGP,25785,19553,6232,24.1691
+features_24h_peak_emergency,UREIA,25785,21637,4148,16.0869
+features_24h_peak_emergency,idade,25785,22633,3152,12.2242
+features_24h_peak_emergency,sexo,25785,25785,0,0.0
+features_24h_peak_emergency,codigo_da_unidade,25785,25785,0,0.0
+features_24h_peak_emergency,n_exames,25785,25785,0,0.0
+features_24h_peak_emergency,LEUCO_original,25785,25559,226,0.8765
+features_24h_peak_emergency,PLAQ_original,25785,25558,227,0.8804

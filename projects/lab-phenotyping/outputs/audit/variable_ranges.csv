@@ -1,0 +1,56 @@
+dataset,variable,numeric_non_null_count,min_value,max_value
+raw_base,CPF do Paciente,8683152,0.0,7.85275427567241e+18
+raw_base,Celular do Paciente,2646432,0.0,549249447736.0
+raw_base,Código da Unidade,9097700,1.0,20.0
+raw_base,Número do Atendimento,9097700,1.0,159842.0
+raw_base,RG,732969,55.0,738527109887506.0
+raw_base,Telefone do Paciente,97565,470.0,479991129172.0
+raw_base,Valor do Resultado,4961429,-188.0,inf
+clusters_with_care_setting,BILIRRUBINA,12701,0.0,54.25
+clusters_with_care_setting,CPK,12185,0.0,100000.0
+clusters_with_care_setting,CREATININA,23817,0.0,3211.3
+clusters_with_care_setting,FOSFATASE_ALCALINA,10496,0.0,6899.0
+clusters_with_care_setting,GLICOSE,765,9.6,716.0
+clusters_with_care_setting,LDH,11399,19.0,999999.0
+clusters_with_care_setting,LEUCO,26183,425.0,267860.0
+clusters_with_care_setting,LEUCO_original,26183,0.425,267860.0
+clusters_with_care_setting,PCR,21356,0.01,204.3
+clusters_with_care_setting,PLAQ,26182,2000.0,1802000.0
+clusters_with_care_setting,PLAQ_original,26182,2.0,1802000.0
+clusters_with_care_setting,POTASSIO,10989,1.51,40.0
+clusters_with_care_setting,SODIO,11095,53.4,206.1
+clusters_with_care_setting,TAP,7571,0.0,864.0
+clusters_with_care_setting,TGO,21218,0.0,9617.0
+clusters_with_care_setting,TGP,20079,0.0,6416.1
+clusters_with_care_setting,UREIA,21967,0.0,544.01
+clusters_with_care_setting,cluster,26414,0.0,2.0
+clusters_with_care_setting,codigo_da_unidade,26414,1.0,15.0
+clusters_with_care_setting,idade,23019,0.0,103.6
+clusters_with_care_setting,n_exames,26414,6.0,15.0
+clusters_with_care_setting,numero_do_atendimento,26414,2.0,159448.0
+dataset_expandido,codigo_da_unidade,1394229,1.0,20.0
+dataset_expandido,idade,1023882,-0.9,111.0
+dataset_expandido,numero_do_atendimento,1394229,1.0,159842.0
+dataset_expandido,valor_do_resultado,1394229,-16.98,5.53e+16
+dataset_expandido,valor_num,1394229,-16.98,5.53e+16
+features_24h_peak_emergency,BILIRRUBINA,12534,0.0,54.25
+features_24h_peak_emergency,CPK,12021,0.0,100000.0
+features_24h_peak_emergency,CREATININA,23230,0.0,2700.0
+features_24h_peak_emergency,FOSFATASE_ALCALINA,10353,0.0,6899.0
+features_24h_peak_emergency,GLICOSE,260,9.6,596.3
+features_24h_peak_emergency,LDH,11303,19.0,999999.0
+features_24h_peak_emergency,LEUCO,25559,670.0,267860.0
+features_24h_peak_emergency,LEUCO_original,25559,1.28,267860.0
+features_24h_peak_emergency,PCR,21093,0.01,204.3
+features_24h_peak_emergency,PLAQ,25558,2000.0,1802000.0
+features_24h_peak_emergency,PLAQ_original,25558,2.0,1802000.0
+features_24h_peak_emergency,POTASSIO,10773,1.51,40.0
+features_24h_peak_emergency,SODIO,10975,53.4,206.1
+features_24h_peak_emergency,TAP,7460,0.0,864.0
+features_24h_peak_emergency,TGO,20669,0.0,9617.0
+features_24h_peak_emergency,TGP,19553,0.0,6416.1
+features_24h_peak_emergency,UREIA,21637,0.0,544.01
+features_24h_peak_emergency,codigo_da_unidade,25785,4.0,6.0
+features_24h_peak_emergency,idade,22633,0.0,103.6
+features_24h_peak_emergency,n_exames,25785,6.0,15.0
+features_24h_peak_emergency,numero_do_atendimento,25785,2.0,159448.0
