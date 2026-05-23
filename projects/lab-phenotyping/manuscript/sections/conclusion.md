@@ -1,0 +1,5 @@
+# Conclusão
+
+A fenotipagem laboratorial não supervisionada identificou três perfis exploratórios e clinicamente plausíveis em uma grande base de atendimentos clínicos reais: um fenótipo inflamatório-renal, um fenótipo hepático e um fenótipo basal. As análises de robustez indicam que a idade contribui para a separação dos grupos, mas não explica integralmente a persistência do padrão inflamatório-renal, e que encontros repetidos modificam as estimativas de prevalência entre os fenótipos.
+
+Esses resultados devem ser interpretados no contexto de uma coorte baseada em atendimentos e selecionada por maior densidade laboratorial, uma vez que o critério `n_exames >= 6` reteve apenas parte dos encontros candidatos. Assim, o estudo sustenta o valor exploratório da fenotipagem multimarcador como contribuição aplicada da informática em saúde para descrever heterogeneidade laboratorial em dados reais, mas não valida subgrupos clínicos generalizáveis nem estabelece utilidade prognóstica. A relevância clínica desses perfis dependerá de vinculação com desfechos, replicação externa e avaliação adicional de estabilidade.

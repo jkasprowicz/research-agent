@@ -1,4 +1,4 @@
-# Métodos
+# Metodologia
 
 ## Desenho do estudo e fonte de dados
 
@@ -23,6 +23,10 @@ As variáveis contínuas foram descritas por mediana e intervalo interquartil, e
 ## Clustering e visualização
 
 O agrupamento foi realizado por K-means com `random_state=42`. A seleção do número de clusters considerou a métrica de silhueta para soluções entre dois e seis agrupamentos e a interpretabilidade clínica dos perfis resultantes. A solução final adotou três clusters. Para visualização exploratória, foi utilizada projeção bidimensional por UMAP com `n_neighbors=35`, `min_dist=0,08` e `random_state=42`. Os eixos do UMAP foram interpretados apenas como representação geométrica da estrutura dos dados, sem significado clínico direto (McInnes et al., 2018).
+
+## Análises de robustez
+
+Foram conduzidas análises adicionais de robustez com finalidade descritiva e de sensibilidade. Primeiro, o clustering foi reexecutado sem a variável `idade`, preservando as demais etapas de pré-processamento, para avaliar quanto a separação dos grupos dependia da estrutura etária. Segundo, foi realizada uma análise de prevalência restrita ao primeiro atendimento disponível por paciente, comparada à análise baseada em todos os atendimentos, com o objetivo de estimar o impacto potencial de encontros repetidos sobre a composição dos clusters. Terceiro, foi quantificado o efeito do critério de inclusão `n_exames >= 6`, comparando o número de atendimentos antes e depois do filtro e resumindo a densidade de exames nos encontros candidatos. Essas análises geraram apenas saídas agregadas e foram tratadas como material suplementar de apoio à interpretação, não como redefinição do modelo principal.
 
 ## Contexto assistencial e ética
 
