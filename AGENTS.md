@@ -99,4 +99,16 @@ Avoid:
 6. Improve argumentation
 7. Improve discussion depth
 
+## Doctoral Positioning Mode
+
+When evaluating doctoral opportunities:
+- prioritize long-term scientific identity
+- prioritize publication sustainability
+- avoid disconnected thematic transitions
+- value continuity from previous publications
+- consider feasibility for a full-time working researcher
+- prioritize strategically scalable research themes
+- evaluate advisor compatibility carefully
+- avoid suggesting oversaturated or low-publication-potential themes
+
 EOF
