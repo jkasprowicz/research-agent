@@ -18,7 +18,7 @@ Os exames foram padronizados quanto à nomenclatura, unidade e representação n
 
 ## Análise exploratória da coorte
 
-As variáveis contínuas foram descritas por mediana e intervalo interquartil, e as variáveis categóricas por frequências absolutas e relativas. A coorte foi descrita globalmente e estratificada por sexo. As comparações entre sexos utilizaram o teste de Mann-Whitney para variáveis contínuas e o teste do qui-quadrado de Pearson para variáveis categóricas.
+As variáveis contínuas foram descritas por mediana e intervalo interquartil, e as variáveis categóricas por frequências absolutas e relativas. A coorte foi descrita globalmente e estratificada por sexo. As comparações entre sexos utilizaram o teste de Mann-Whitney para variáveis contínuas e o teste do qui-quadrado de Pearson para variáveis categóricas. Também foi produzido um resumo agregado de completude por variável no conjunto analítico final, com o objetivo de distinguir variáveis amplamente observadas daquelas com maior dependência de imputação.
 
 ## Clustering e visualização
 

@@ -8,17 +8,21 @@ Foram incluídos 26.414 atendimentos na análise final. A coorte apresentou medi
 
 A Tabela 1 apresenta a caracterização demográfica e laboratorial global, bem como a distribuição por sexo e por fenótipo laboratorial na versão analítica final do estudo.
 
+## Completude das variáveis analíticas
+
+No conjunto analítico final, os parâmetros hematológicos apresentaram completude muito alta, com observação direta em `99,1%` dos atendimentos para leucócitos e `99,1%` para plaquetas. Entre os marcadores bioquímicos utilizados no clustering, a creatinina esteve disponível em `90,2%` dos atendimentos, a idade em `87,2%`, a ureia em `83,2%`, a proteína C reativa em `80,9%`, a TGO em `80,3%` e a TGP em `76,0%`. Esses valores indicam que a solução final se apoia majoritariamente em variáveis centrais com boa observação direta, embora parte relevante dos marcadores inflamatórios e hepáticos ainda dependa de imputação em uma fração não desprezível da coorte. O resumo completo de observação e ausência por variável é apresentado na Tabela Suplementar S1.
+
 ## Identificação dos fenótipos laboratoriais
 
 A análise por K-means indicou que a solução com três agrupamentos ofereceu o melhor equilíbrio entre separação geométrica e interpretabilidade clínica, com silhueta de 0,29. Na versão final dos materiais, os clusters corresponderam a 5.837 atendimentos (22,1%) no fenótipo inflamatório-renal, 5.029 (19,0%) no fenótipo hepático e 15.548 (58,9%) no fenótipo basal.
 
 ## Caracterização dos clusters
 
-Os três agrupamentos apresentaram perfis distintos e clinicamente plausíveis. O fenótipo inflamatório-renal concentrou maiores alterações de creatinina, ureia e proteína C reativa, além de maior idade mediana. O fenótipo hepático apresentou elevação relativa de TGO e TGP, acompanhada de menores contagens relativas de leucócitos e plaquetas. O fenótipo basal reuniu a maior parcela da amostra e exibiu menor intensidade global de alterações laboratoriais nas visualizações padronizadas.
+Os três agrupamentos apresentaram perfis distintos e clinicamente plausíveis. Em escala laboratorial original (Tabela 2), o fenótipo inflamatório-renal exibiu maior idade mediana (`70,8` anos), creatinina (`1,44`), ureia (`63,24`) e proteína C reativa (`28,87`), além de leucócitos relativamente elevados (`9590`). O fenótipo hepático concentrou as maiores medianas de TGO (`62,2`) e TGP (`52,6`), acompanhadas de menores contagens de leucócitos (`4665`) e plaquetas (`139000`). O fenótipo basal reuniu a maior parcela da amostra, com idade mais baixa (`40,6` anos), menor creatinina (`0,78`), ureia (`29,44`) e transaminases mais discretas, além de plaquetas relativamente mais altas (`258000`). Em conjunto, esses achados sugerem um gradiente entre maior disfunção inflamatório-renal, maior sinal hepatocelular e um perfil laboratorial globalmente menos perturbado.
 
 ## Distribuição por sexo
 
-A distribuição por sexo não foi uniforme entre os clusters. O fenótipo inflamatório-renal mostrou maior participação relativa de homens (3.236 de 5.837 atendimentos; aproximadamente 55,4%), enquanto o fenótipo basal concentrou maior participação relativa de mulheres (9.707 de 15.548 atendimentos; aproximadamente 62,4%). O fenótipo hepático apresentou distribuição intermediária entre os sexos.
+A distribuição por sexo não foi uniforme entre os clusters. O fenótipo inflamatório-renal mostrou maior participação relativa de homens (3.236 de 5.837 atendimentos; aproximadamente `55,4%`), enquanto o fenótipo basal concentrou maior participação relativa de mulheres (9.707 de 15.548 atendimentos; aproximadamente `62,4%`). O fenótipo hepático apresentou distribuição intermediária entre os sexos. Esse padrão sugere que a heterogeneidade laboratorial capturada pelo modelo não se distribui de forma aleatória entre homens e mulheres, reforçando a possibilidade de interação entre carga inflamatória, função renal, idade e composição biológica da coorte.
 
 ## Visualização em baixa dimensionalidade
 
