@@ -1,0 +1,10 @@
+cluster_id,cluster_label,category,count,pct_within_cluster,chi_square_p_value,cramers_v
+0,inflammatory_renal,Emergency-Adult,5665,97.05,0.0,0.052407
+0,inflammatory_renal,Emergency-Pediatric,46,0.79,0.0,0.052407
+0,inflammatory_renal,Outpatient,126,2.16,0.0,0.052407
+1,hepatic_like,Emergency-Adult,4883,97.1,0.0,0.052407
+1,hepatic_like,Emergency-Pediatric,100,1.99,0.0,0.052407
+1,hepatic_like,Outpatient,46,0.91,0.0,0.052407
+2,basal,Emergency-Adult,14671,94.36,0.0,0.052407
+2,basal,Emergency-Pediatric,420,2.7,0.0,0.052407
+2,basal,Outpatient,457,2.94,0.0,0.052407

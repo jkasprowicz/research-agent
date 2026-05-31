@@ -1,0 +1,10 @@
+cluster_id,cluster_label,category,count,pct_within_cluster,chi_square_p_value,cramers_v
+0,inflammatory_renal,pediatric,63,1.23,0.0,0.301437
+0,inflammatory_renal,adult,1255,24.41,0.0,0.301437
+0,inflammatory_renal,older_adult,3823,74.36,0.0,0.301437
+1,hepatic_like,pediatric,379,8.25,0.0,0.301437
+1,hepatic_like,adult,2790,60.72,0.0,0.301437
+1,hepatic_like,older_adult,1426,31.03,0.0,0.301437
+2,basal,pediatric,1395,10.5,0.0,0.301437
+2,basal,adult,8707,65.55,0.0,0.301437
+2,basal,older_adult,3181,23.95,0.0,0.301437

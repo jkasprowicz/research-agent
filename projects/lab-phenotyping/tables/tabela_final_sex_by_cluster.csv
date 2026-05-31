@@ -1,0 +1,7 @@
+cluster_id,cluster_label,category,count,pct_within_cluster,chi_square_p_value,cramers_v
+0,inflammatory_renal,F,2601,44.56,0.0,0.149281
+0,inflammatory_renal,M,3236,55.44,0.0,0.149281
+1,hepatic_like,F,2658,52.85,0.0,0.149281
+1,hepatic_like,M,2371,47.15,0.0,0.149281
+2,basal,F,9707,62.43,0.0,0.149281
+2,basal,M,5841,37.57,0.0,0.149281
